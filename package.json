@@ -1,6 +1,6 @@
 {
   "name": "is-minus-one",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "Checks whether the value is -1 or not.",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/rilecraft/is-minus-one.git"
   },
   "keywords": [
-    "-1"
+    "-1", "is minus one", "is-minus-one", "is -1"
   ],
   "author": "RileCraft",
   "license": "MIT",
