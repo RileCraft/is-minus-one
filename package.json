@@ -1,0 +1,23 @@
+{
+  "name": "is-minus-one",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Checks whether the value is -1 or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rilecraft/is-minus-one.git"
+  },
+  "keywords": [
+    "-1"
+  ],
+  "author": "RileCraft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rilecraft/is-minus-one/issues"
+  },
+  "homepage": "https://github.com/rilecraft/is-minus-one#readme"
+}
