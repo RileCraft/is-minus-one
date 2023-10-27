@@ -1,5 +1,5 @@
 # isMinusOne
-> Checks whethwr the provided value is equal to -1 or not.
+> Checks whether the provided value is equal to -1 or not.
 
 # Usage
 ```js
