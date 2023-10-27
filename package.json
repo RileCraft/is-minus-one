@@ -1,6 +1,6 @@
 {
   "name": "is-minus-one",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "Checks whether the value is -1 or not.",
   "main": "index.js",
